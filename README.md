@@ -3,11 +3,11 @@
 
 Email Me 👉 ✉️ **shahikajal274508@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**Data Store CRUD Application
-- 🌱 **I’m currently learning:**SPRING BOOT, MYSQL, MONGODB
-- 👯 **I’m looking to collaborate on:** EMPLOYEE STORE DATAdata
-- 🤔 **I’m looking for help with:** DATA STORE
-- 💬 **Ask me about:** SPRING BOOT, MYSQL, MONGODB
+- 🔭 **I’m currently working on:**Microservices Projects using Spring Boot, MySQL, and MongoDB
+- 🌱 **I’m currently learning:**Agentic AI using RAG, LLM Pipelines, and CI/CD
+- 👯 **I’m looking to collaborate on:** Java Full Stack, Microservices, and Backend Development Projects
+- 🤔 **I’m looking for help with:** Scalable Backend Systems and Microservices Architecture
+- 💬 **Ask me about:** Spring Boot, Java, MySQL, MongoDB, REST APIs, and Node.js
 - 📫 **How to reach me:** shahikajal274508@gmail.com
 - 😄 **Pronouns:**She/Her
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
